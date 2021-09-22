@@ -1,4 +1,4 @@
-### Olá! eu sou o Gabriel Augustinho Alves
+### Olá! Bem vindo ao meu repositório
 - 🔭 Hoje trabalho como full-stack
 - 🌱 Atualmente estou cursando Engenharia de Computação na UNITAU
 - 😄 Pronouns: ele/dele
