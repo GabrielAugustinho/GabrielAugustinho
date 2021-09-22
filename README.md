@@ -1,7 +1,6 @@
 ### Olá! Bem vindo ao meu repositório
 - 🔭 Hoje trabalho como full-stack
 - 🌱 Atualmente estou cursando Engenharia de Computação na UNITAU
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/gabrielaugustinho">
