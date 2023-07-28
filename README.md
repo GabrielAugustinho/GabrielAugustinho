@@ -27,4 +27,6 @@
      <a href="https://linkedin.com/in/gabriel-augustinho-alves-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/gabrielaugustinho/gabrielaugustinho/blob/output/github-contribution-grid-snake.svg)
+##
+  
+ ![Snake animation](https://github.com/gabrielaugustinho/gabrielaugustinho/blob/output/github-contribution-grid-snake.svg)
