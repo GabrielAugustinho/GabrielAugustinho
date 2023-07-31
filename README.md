@@ -22,8 +22,9 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gabriel.aug.alves@outlook.com"><img width="30" src="gmail.svg"></a>
-     <a href="https://linkedin.com/in/gabriel-augustinho-alves-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/augustinho_gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:gabriel.aug.alves@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://linkedin.com/in/gabriel-augustinho-alves-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
