@@ -27,5 +27,3 @@
 </div>
 
 ##
-
-![snake gif](https://github.com/gabrielaugustinho/gabrielaugustinho/blob/output/github-contribution-grid-snake.svg)
