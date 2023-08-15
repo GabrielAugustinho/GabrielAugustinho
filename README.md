@@ -1,12 +1,10 @@
 ## Aoooba dev, Gabriel Aqui!
 - 🔭 Hoje trabalho como Desenvolvedor Back-End
 - 🌱 Atualmente estou no 8º semestre de Engenharia de Computação na UNITAU
+<br>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaugustinho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugustinho&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+| <a href="https://github.com/gabrielaugustinho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielaugustinho&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/gabrielaugustinho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugustinho&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
