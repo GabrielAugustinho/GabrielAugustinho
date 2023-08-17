@@ -3,8 +3,10 @@
 - 🌱 Atualmente estou no 8º semestre de Engenharia de Computação na UNITAU
 <br>
 
-| <a href="https://github.com/gabrielaugustinho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielaugustinho&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/gabrielaugustinho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugustinho&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/gabrielaugustinho/github-readme-stats">
+<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugustinho&layout=compact&theme=great-gatsby&hide_border=true" />
+</a> 
+<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
