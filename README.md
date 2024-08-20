@@ -1,6 +1,6 @@
 ## Aoooba dev, Gabriel Aqui!
 - 🔭 Hoje trabalho como Desenvolvedor de software pleno
-- 🌱 Atualmente estou no 9º semestre de Engenharia de Computação na UNITAU
+- 🌱 Atualmente estou no último de Engenharia de Computação na UNITAU
 <br>
 
 <a href="https://github.com/gabrielaugustinho/github-readme-stats">
