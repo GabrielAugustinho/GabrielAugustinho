@@ -1,6 +1,6 @@
-## Aoooba dev, Gabriel Aqui!
-- 🔭 Hoje trabalho como Desenvolvedor de software pleno
-- 🌱 Atualmente estou no último semestre de Engenharia de Computação na UNITAU
+## Aoooba dev, Gabriel here!
+- 🔭 Today I work as a software engineer.
+- 🌱 I am a software engineer graduated from the university of Taubaté - UNITAU.
 <br>
 
 <a href="https://github.com/gabrielaugustinho/github-readme-stats">
